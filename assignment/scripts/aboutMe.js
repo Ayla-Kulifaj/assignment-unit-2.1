@@ -33,11 +33,11 @@ let pets=0;
 console.log(pets);
 
 // 9 - Create a variable called `friendsPets` and assign it the value of the number of pets your friend has
-
+let friendsPets=3;
 // 10 - Add two pets to your `pets` variable
-
+pets= pets + 2;
 // 11 - Create a constant variable called `allowedPets` and set it to a number value of your choice
-
+const allowedPets=7;
 // 12 - Create a variable called `result`. Create a conditional:
 //      if adventurous is true, set `result` to be "Adventures are great!", 
 //      if it's not true,  set `result` to be "How about we stay home?"
